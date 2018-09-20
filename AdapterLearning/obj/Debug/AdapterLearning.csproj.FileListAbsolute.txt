@@ -1,0 +1,6 @@
+E:\Code\CSharpTestProject\AdapterLearning\AdapterLearning\bin\Debug\AdapterLearning.exe.config
+E:\Code\CSharpTestProject\AdapterLearning\AdapterLearning\bin\Debug\AdapterLearning.exe
+E:\Code\CSharpTestProject\AdapterLearning\AdapterLearning\bin\Debug\AdapterLearning.pdb
+E:\Code\CSharpTestProject\AdapterLearning\AdapterLearning\obj\Debug\AdapterLearning.csprojResolveAssemblyReference.cache
+E:\Code\CSharpTestProject\AdapterLearning\AdapterLearning\obj\Debug\AdapterLearning.exe
+E:\Code\CSharpTestProject\AdapterLearning\AdapterLearning\obj\Debug\AdapterLearning.pdb
